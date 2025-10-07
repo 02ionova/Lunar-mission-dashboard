@@ -84,6 +84,3 @@ Through this dashboard, users can:
 * Compare success rates across different mission types and organizations.
 
 This interactive visualization not only simplifies complex data analysis but also enhances understanding of humanity’s lunar exploration journey.
-
-
-Хочешь, я добавлю красивый блок `requirements.txt` и примеры кода из твоего `dash_app.py` (например, создание графиков или layout) в конце README, чтобы он выглядел ещё более профессионал
